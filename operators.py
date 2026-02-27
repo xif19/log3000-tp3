@@ -41,10 +41,8 @@ def multiply(a,b):
 
     Returns:
         float: Le resultat de la multiplication.
-
-    FIXME: L'implementation actuelle utilise l'exponentiation (**) au lieu de la multiplication (*).
     """
-    return a ** b
+    return a * b
 
 def divide(a,b):
     """
