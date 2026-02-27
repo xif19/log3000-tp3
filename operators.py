@@ -27,9 +27,8 @@ def subtract(a,b):
     Returns:
         float: Le resultat de la soustraction.
     
-    FIXME: L'implementation actuelle inverse les operandes (b - a).
     """
-    return b - a
+    return a - b
 
 def multiply(a,b):
     """
