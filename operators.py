@@ -53,7 +53,5 @@ def divide(a,b):
 
     Returns:
         float: Le resultat de la division.
-
-    FIXME: L'implementation actuelle utilise la division entiere (//).
     """
-    return a // b
+    return a / b
